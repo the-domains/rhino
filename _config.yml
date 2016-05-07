@@ -1,0 +1,28 @@
+name: Rhino
+favicon: null
+layout_spectrum: 0.6725981552153826
+typography_spectrum: 0.05101109552197158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8977209536824375
+  lightness: 0.9117026105523109
+  saturation: 0.1508783376775682
+  rhythmicContrast: 0.3223976984154433
+purpose: []
